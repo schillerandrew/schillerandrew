@@ -6,7 +6,7 @@
 
 <a href="https://team-r-a-d.github.io/Re-Con/"><button style="color: blue; background-color: cornflowerblue; width: 150px; height: 50px; border: 1px solid thistle; border-radius: 10px"><div style="font-size: 32px">Re-Con</div></button></a>  <a href="https://github.com/TEAM-R-A-D/Re-Con/"><button style="color: blue; background-color: cornflowerblue; width: 160px; height: 35px; border: 1px solid thistle; border-radius: 10px"><div style="font-size: 24px">frontend repo</div></button></a>
 
-<a href="https://github.com/schillerandrew/Calculator/"><button style="color: black; background-color: dimgrey; width: 175px; height: 50px; border: 1px solid white; border-radius: 10px"><div style="font-size: 32px">Calculator</div></button></a>  <a href="https://github.com/schillerandrew/Calculator/"><button style="color: black; background-color: dimgrey; width: 160px; height: 35px; border: 1px solid thistle; border-radius: 10px"><div style="font-size: 24px">frontend repo</div></button></a>
+<button style="color: black; background-color: dimgrey; width: 175px; height: 50px; border: 1px solid white; border-radius: 10px"><div style="font-size: 32px"><a href="https://github.com/schillerandrew/Calculator/">Calculator</a></div></button> <a href="https://github.com/schillerandrew/Calculator/"><button style="color: black; background-color: dimgrey; width: 160px; height: 35px; border: 1px solid thistle; border-radius: 10px"><div style="font-size: 24px">frontend repo</div></button></a>
 
 
 <!--
