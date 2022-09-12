@@ -1,7 +1,7 @@
 # 🗂️ Portolio
 
 
-<a href="https://foodies-ram.netlify.app/" style="text-decoration: none; font-size: 40px; background-color: #f03a17">🍔![Foodies](https://img.shields.io/badge/-Foodies-f03a17?style=for-the-badge)</a> <a href="https://github.com/TEAM-R-A-M/foodies-frontend/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a><a href="https://github.com/TEAM-R-A-M/foodies-backend/">![](https://img.shields.io/badge/-backend-blue?style=plastic)</a>
+<a href="https://foodies-ram.netlify.app/" style="text-decoration: none; font-size: 40px; background-color: #f03a17"><img src="./hamburger.png" height="40" width="40" border="1px solid black">![Foodies](https://img.shields.io/badge/-Foodies-f03a17?style=for-the-badge)</a> <a href="https://github.com/TEAM-R-A-M/foodies-frontend/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a><a href="https://github.com/TEAM-R-A-M/foodies-backend/">![](https://img.shields.io/badge/-backend-blue?style=plastic)</a>
 
 <a href="https://foodies-ram.netlify.app/" style="text-decoration: none; font-size: 40px; background-color: #f03a17">🍔</a><a href="https://foodies-ram.netlify.app/" style="text-decoration: none; font-size: 40px; font-weight: bold; background-color: #f03a17; color: white">Foodies</a> <a href="https://github.com/TEAM-R-A-M/foodies-frontend/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a><a href="https://github.com/TEAM-R-A-M/foodies-backend/">![](https://img.shields.io/badge/-backend-blue?style=plastic)</a>
 
