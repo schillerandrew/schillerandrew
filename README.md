@@ -17,9 +17,9 @@
 <a href="https://github.com/schillerandrew#-portfolio">![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</a> <a href="https://github.com/schillerandrew#-portfolio">![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</a> <a href="https://github.com/schillerandrew#-portfolio">![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</a> <a href="https://github.com/schillerandrew#-portfolio">![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</a> <a href="https://github.com/schillerandrew#-portfolio">![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)</a>
 
 # 📊 GitHub Stats
-<a href="https://github.com/schillerandrew#-tech-stack">![](https://github-readme-stats.vercel.app/api?username=schillerandrew&theme=nord&hide_border=false&include_all_commits=false&count_private=true)</a>
-<a href="https://github.com/schillerandrew#-tech-stack">![](https://github-readme-streak-stats.herokuapp.com/?user=schillerandrew&theme=nord&hide_border=false)</a>
-<a href="https://github.com/schillerandrew#-tech-stack">![](https://github-readme-stats.vercel.app/api/top-langs/?username=schillerandrew&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)</a>
+<a href="https://github.com/schillerandrew#-portfolio">![](https://github-readme-stats.vercel.app/api?username=schillerandrew&theme=nord&hide_border=false&include_all_commits=false&count_private=true)</a>
+<a href="https://github.com/schillerandrew#-portfolio">![](https://github-readme-streak-stats.herokuapp.com/?user=schillerandrew&theme=nord&hide_border=false)</a>
+<a href="https://github.com/schillerandrew#-portfolio">![](https://github-readme-stats.vercel.app/api/top-langs/?username=schillerandrew&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)</a>
 
 <!--
 **schillerandrew/schillerandrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
