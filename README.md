@@ -1,13 +1,12 @@
 # 🗂️ Portolio
 
+<a href="https://leafy-lebkuchen-56aff4.netlify.app/"><img src="https://wp-assets.rss.com/blog/wp-content/uploads/2019/10/10111557/social_style_3_rss-512-1.png" height="40" width="40">![RSS Reader](https://img.shields.io/badge/-RSS%20Reader-1970c2?style=for-the-badge)</a> <a href="https://github.com/schillerandrew/rss-frontend/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a><a href="https://github.com/schillerandrew/rss-backend/">![](https://img.shields.io/badge/-backend-blue?style=plastic)</a>
 
 <a href="https://foodies-ram.netlify.app/"><img src="./hamburger.png" height="40" width="40">![Foodies](https://img.shields.io/badge/-Foodies-f03a17?style=for-the-badge)</a> <a href="https://github.com/TEAM-R-A-M/foodies-frontend/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a><a href="https://github.com/TEAM-R-A-M/foodies-backend/">![](https://img.shields.io/badge/-backend-blue?style=plastic)</a>
 
-<a href="https://schillerandrew.github.io/Calculator/"><img src="./calc.png" height="40" width="40">![Calculator](https://img.shields.io/badge/-Calculator-%09%23303030?style=for-the-badge)</a> <a href="https://github.com/schillerandrew/Calculator/">![](https://img.shields.io/badge/-repository-%2387CEFA?style=plastic)</a>
-
 <a href="https://team-r-a-d.github.io/Re-Con/"><img src="./flip.png" height="40" width="40">![Re-Con](https://img.shields.io/badge/-Re--Con-%23c83737?style=for-the-badge)</a> <a href="https://github.com/TEAM-R-A-D/Re-Con/">![](https://img.shields.io/badge/-repository-%2387CEFA?style=plastic)</a>
 
-<a href="https://leafy-lebkuchen-56aff4.netlify.app/"><img src="https://wp-assets.rss.com/blog/wp-content/uploads/2019/10/10111557/social_style_3_rss-512-1.png" height="40" width="40">![RSS Reader](https://img.shields.io/badge/-RSS%20Reader-1970c2?style=for-the-badge)</a> <a href="https://github.com/schillerandrew/rss-frontend/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a><a href="https://github.com/schillerandrew/rss-backend/">![](https://img.shields.io/badge/-backend-blue?style=plastic)</a>
+<a href="https://schillerandrew.github.io/Calculator/"><img src="./calc.png" height="40" width="40">![Calculator](https://img.shields.io/badge/-Calculator-%09%23303030?style=for-the-badge)</a> <a href="https://github.com/schillerandrew/Calculator/">![](https://img.shields.io/badge/-repository-%2387CEFA?style=plastic)</a>
 
 # 📚 Tech Stack
 <a href="https://github.com/schillerandrew#-portfolio" style="cursor: crosshair">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a> <a href="https://github.com/schillerandrew#-portfolio">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a> <a href="https://github.com/schillerandrew#-portfolio">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
