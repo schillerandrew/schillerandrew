@@ -17,7 +17,7 @@
 
 # 📊 GitHub Stats
 <a href="https://github.com/schillerandrew#-portfolio">![](https://github-readme-stats.vercel.app/api?username=schillerandrew&theme=nord&hide_border=false&include_all_commits=false&count_private=true)</a>
-<a href="https://github.com/schillerandrew#-portfolio">![](https://github-readme-streak-stats.herokuapp.com/?user=schillerandrew&theme=nord&hide_border=false)</a>
+<!-- <a href="https://github.com/schillerandrew#-portfolio">![](https://github-readme-streak-stats.herokuapp.com/?user=schillerandrew&theme=nord&hide_border=false)</a> -->
 <a href="https://github.com/schillerandrew#-portfolio">![](https://github-readme-stats.vercel.app/api/top-langs/?username=schillerandrew&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)</a>
 
 <!--
