@@ -1,10 +1,16 @@
 # 🗂️ Portolio
 
-<a href="https://foodies-schiller.netlify.app/"><img src="./hamburger.png" height="40" width="40">&nbsp;![Foodies](https://img.shields.io/badge/-Foodies-f03a17?style=for-the-badge)</a> <a href="https://github.com/schillerandrew/foodies-frontend/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a><a href="https://github.com/schillerandrew/foodies-backend/">![](https://img.shields.io/badge/-backend-blue?style=plastic)</a>
+<a href="https://foodies-schiller.netlify.app/"><img src="./hamburger.png" height="40" width="40"></a>
+<a href="https://foodies-schiller.netlify.app/"><img src="https://img.shields.io/badge/-Foodies-f03a17?style=for-the-badge"></a>
+<a href="https://github.com/schillerandrew/foodies-frontend/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a><a href="https://github.com/schillerandrew/foodies-backend/">![](https://img.shields.io/badge/-backend-blue?style=plastic)</a>
 
-<a href="https://rssreader-schiller.netlify.app/"><img src="https://wp-assets.rss.com/blog/wp-content/uploads/2019/10/10111557/social_style_3_rss-512-1.png" height="40" width="40">&nbsp;![RSS Reader](https://img.shields.io/badge/-RSS%20Reader-1970c2?style=for-the-badge)</a> <a href="https://github.com/schillerandrew/rss-frontend/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a><a href="https://github.com/schillerandrew/rss-backend/">![](https://img.shields.io/badge/-backend-blue?style=plastic)</a>
+<a href="https://rssreader-schiller.netlify.app/"><img src="https://wp-assets.rss.com/blog/wp-content/uploads/2019/10/10111557/social_style_3_rss-512-1.png" height="40" width="40"></a>
+<a href="https://rssreader-schiller.netlify.app/"><img src="https://img.shields.io/badge/-RSS%20Reader-1970c2?style=for-the-badge"></a>
+<a href="https://github.com/schillerandrew/rss-frontend/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a><a href="https://github.com/schillerandrew/rss-backend/">![](https://img.shields.io/badge/-backend-blue?style=plastic)</a>
 
-<a href="https://team-r-a-d.github.io/Re-Con/"><img src="./flip.png" height="40" width="40">&nbsp;![Re-Con](https://img.shields.io/badge/-Re--Con-%23c83737?style=for-the-badge)</a> <a href="https://github.com/TEAM-R-A-D/Re-Con/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a>
+<a href="https://team-r-a-d.github.io/Re-Con/"><img src="./flip.png" height="40" width="40"></a>
+<a href="https://team-r-a-d.github.io/Re-Con/"><img src="https://img.shields.io/badge/-Re--Con-%23c83737?style=for-the-badge"></a>
+<a href="https://github.com/TEAM-R-A-D/Re-Con/">![](https://img.shields.io/badge/-frontend-lightgrey?style=plastic)</a>
 
 <!-- <a href="https://schillerandrew.github.io/Calculator/"><img src="./calc.png" height="40" width="40">![Calculator](https://img.shields.io/badge/-Calculator-%09%23303030?style=for-the-badge)</a> <a href="https://github.com/schillerandrew/Calculator/">![](https://img.shields.io/badge/-repository-%2387CEFA?style=plastic)</a> -->
 
